@@ -1,9 +1,9 @@
 <img alt="Banner" src="https://wallpaperaccess.com/full/8351209.gif"/>
 
 <h1 align=center>
-<!--    <img alt="Hello" width="30" height="30" src="https://emoji.gg/assets/emoji/4708_Pikachu_Hello.gif"/> --> 
+   <img alt="Hello" height="40" src="https://i.pinimg.com/originals/57/61/5b/57615b8c0092a66c1d4058b1692955cc.gif"/>
    Hello, It’s me Igor Machado
-<!--   <img alt="Hello" width="30" height="30" src="https://emoji.gg/assets/emoji/4708_Pikachu_Hello.gif"/>  --> 
+<img alt="Hello" height="40" src="https://i.pinimg.com/originals/57/61/5b/57615b8c0092a66c1d4058b1692955cc.gif"/>
 </h1> 
 
 <a href="https://www.linkedin.com/in/souzalift/" target="_blank"> 
