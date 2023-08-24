@@ -36,10 +36,10 @@
 <h2 align="center"><img alt="Status" src="https://emoji.gg/assets/emoji/4023-nitro.gif" width="25" height="30"> Stats</h2>
 
    <a href="https://github.com/Souzalift">
-    <img align="center" width=400px src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Souzalift&count_private=false&show_icons=true&locale=en&theme=dark#gh-dark-mode-only)](https://github.com/souzalift/github-readme-stats#gh-dark-mode-only)" />
+    <img align="center" width=410px src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Souzalift&count_private=false&show_icons=true&locale=en&theme=dark#gh-dark-mode-only)](https://github.com/souzalift/github-readme-stats#gh-dark-mode-only)" />
   </a>
   <a href="https://github.com/Souzalift">
-    <img align="center" width=400px src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Souzalift&count_private=false&layout=compact&show_icons=true&locale=en&&theme=dark#gh-dark-mode-only&langs_count=8)](https://github.com/souzalift/github-readme-stats#gh-dark-mode-only)"/>
+    <img align="center" width=410px src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Souzalift&count_private=false&layout=compact&show_icons=true&locale=en&&theme=dark#gh-dark-mode-only&langs_count=8)](https://github.com/souzalift/github-readme-stats#gh-dark-mode-only)"/>
   </a>  
 
 
