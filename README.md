@@ -72,7 +72,7 @@
 </div>
 
 <div align="center">
-   <img alt="Cobrinha" src="https://raw.githubusercontent.com/MPaTXD/MPaTXD/output/github-contribution-grid-snake.svg"/>
+   <img alt="Cobrinha" src="https://raw.githubusercontent.com/Souzalift/Souzalift/output/github-contribution-grid-snake.svg"/>
 </div>
 
 
