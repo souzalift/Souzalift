@@ -12,8 +12,6 @@
 <a href="https://github.com/souzalift" target="_blank"> 
    <img alt="BagGithub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="25">
 </a>
-
-<img alt="GifPerfil" align="right" width="113" src="https://i.pinimg.com/originals/1b/a3/9e/1ba39e07810a0d7690b199d823d1ddfb.gif">
 <!--
 <div>
   <dl>
