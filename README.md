@@ -58,7 +58,7 @@
 </div>
 <br>
 <div align="center">
-   <img alt="SetupImagem" src="https://steamuserimages-a.akamaihd.net/ugc/353899007316786697/0D43E10D50F4D45471E7B95EA7FBF435A0876614/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" width="571" height="185">
+   <img alt="SetupImagem" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3U1NjBudHJqc3BrYmRhdHB5YWhna2xiZWFwYjdyanA3bmt1enpkdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f1UH5LwVuWucM/giphy.gif" width="400">
 </div>
 
 <h2 align="center"><img alt="Hobby" src="https://emoji.discord.st/emojis/5b559c94-0c62-403a-accf-2a406eeb16cb.gif" width="25" height="25"> Hobby</h2>
