@@ -1,3 +1,9 @@
+<style>
+  a {
+  pointer-events: none;
+}
+</style>
+
 <img alt="Banner" src="https://wallpaperaccess.com/full/8351209.gif"/>
 
 <h1 align=center>
