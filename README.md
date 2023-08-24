@@ -48,7 +48,7 @@
 <h2 align="center"><img alt="Repositorio" src="https://emoji.discord.st/emojis/aea6b19d-1ebb-42b9-98d6-4136ff2ede45.gif" width="25" height="25"/> Repository</h2>
 <div align="center"> 
    <a href="https://github.com/souzalift/HTML-Developer">
-    <img alt="HTMLDeveloper" height="120em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Souzalift&show_owner=true&repo=Campo-Minado-C&count_private=false&theme=dark"/>
+    <img alt="HTMLDeveloper" height="120em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Souzalift&show_owner=true&repo=HTML-Developer&count_private=false&theme=dark"/>
   </a>
 </div>
 
