@@ -35,13 +35,12 @@
 
 <h2 align="center"><img alt="Status" src="https://emoji.gg/assets/emoji/4023-nitro.gif" width="25" height="30"> Stats</h2>
 
-   <a href="https://github.com/Souzalift">
-    <img align="center" width=410px src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Souzalift&count_private=false&show_icons=true&locale=en&theme=dark#gh-dark-mode-only)](https://github.com/souzalift/github-readme-stats#gh-dark-mode-only)" />
-  </a>
-  <a href="https://github.com/Souzalift">
-    <img align="center" width=410px src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Souzalift&count_private=false&layout=compact&show_icons=true&locale=en&&theme=dark#gh-dark-mode-only&langs_count=8)](https://github.com/souzalift/github-readme-stats#gh-dark-mode-only)"/>
-  </a>  
-
+   <a href="https://github.com/souzalift/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=souzalift" />
+</a>
+<a href="https://github.com/souzalift/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=souzalift&layout=compact&langs_count=8&card_width=320" />
+</a>
 
 <h2 align="center"><img alt="Repositorio" src="https://emoji.discord.st/emojis/aea6b19d-1ebb-42b9-98d6-4136ff2ede45.gif" width="25" height="25"/> Repository</h2>
 <div align="center"> 
