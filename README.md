@@ -46,6 +46,8 @@
 <div align="center"> 
    <a href="https://github.com/souzalift/HTML-Developer">
     <img alt="HTMLDeveloper" height="120em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Souzalift&show_owner=true&repo=HTML-Developer&count_private=false&theme=dark"/>
+      [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+      
   </a>
 </div>
 
