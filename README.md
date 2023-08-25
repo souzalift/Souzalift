@@ -69,8 +69,6 @@
   <img alt="Netflix" src="https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white" height="25"/>
 </div>
 
-<div align="center">
-   <img alt="Cobrinha" src="https://raw.githubusercontent.com/Souzalift/Souzalift/output/github-contribution-grid-snake.svg"/>
-</div>
+
 
 
