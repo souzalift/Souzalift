@@ -36,16 +36,16 @@
 <h2 align="center"><img alt="Status" src="https://emoji.gg/assets/emoji/4023-nitro.gif" width="25" height="30"> Stats</h2>
 
    <a href="https://github.com/souzalift/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=souzalift" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=souzalift&theme=transparent" />
 </a>
 <a href="https://github.com/souzalift/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=souzalift&layout=compact&langs_count=8" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=souzalift&layout=compact&langs_count=8&theme=transparent" />
 </a>
 
 <h2 align="center"><img alt="Repositorio" src="https://emoji.discord.st/emojis/aea6b19d-1ebb-42b9-98d6-4136ff2ede45.gif" width="25" height="25"/> Repository</h2>
 <div align="center"> 
    <a href="https://github.com/souzalift/HTML-Developer">
-    <img alt="HTMLDeveloper" height="120em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Souzalift&show_owner=true&repo=HTML-Developer&count_private=false&theme=dark"/>
+    <img alt="HTMLDeveloper" height="120em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Souzalift&show_owner=true&repo=HTML-Developer&count_private=false&theme=transparent"/>
    
   </a>
 </div>
